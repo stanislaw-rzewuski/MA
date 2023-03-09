@@ -1,0 +1,72 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: color #e5e5ee;
+    padding : 40px ;
+    margin-right: 40px;
+    height: 1320px;
+    width: 870px;
+
+}
+
+  .Wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #ffffff;
+    width: 1200px;
+    margin: 0 auto;
+  }
+
+/*main content*/
+.main-content{
+   padding-top: 88px;
+
+    padding-bottom: 88px;
+
+     padding-left: 88px;
+
+     padding-right: 88px;
+}
+
+/*About me*/
+
+   .My-profession{
+    margin-bottom: 18px;
+    padding-top: 88px;
+   }
+
+
+h2{
+    font-size: 35px;
+}
+    .projek-item{
+    background-color:yellow;
+}
+/*Sidebar*/
+
+  .Sidebar{
+    background-color :#c0f4d1 ;
+
+   padding-right  : 52px ;
+   width: 370px;
+    height: 1320px;
+    margin: 0 auto;
+    }
+
+  .My_pfoto{
+    margin-top: 40px;
+    margin-left: 20px;
+    }
+  .contact-container ,tech skills-cotainer{
+    margin :48px 0 0 48px ;
+    
+  }
+
+  .Sidebar-titel{
+    font-style: normal;
+    font-weight:700 ;
+       font-size: 22px;
+  line-height : 27px;
+  color: 161d2a;
+
+  }
+
